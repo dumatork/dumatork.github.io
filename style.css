@@ -38,7 +38,7 @@ body {
 }
 
 .text-below {
-    bottom: -80px; /* Ajusta la posición vertical del texto debajo de la flor */
+    bottom: -100px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 @keyframes pulsate {
   0% {
